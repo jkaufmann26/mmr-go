@@ -1,6 +1,6 @@
-##Project MMR:##
+# Project MMR: #
 
-- Tasks:
+## Tasks:
 - Get working HTML webpage with HTMX components
 - Get hot swap HTML working for loading web pages so we don't have to restart the server
 - Create MMR algorithm
